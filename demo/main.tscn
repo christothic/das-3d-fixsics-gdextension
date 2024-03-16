@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b71uy8r8x7h8a"]
+
+[sub_resource type="NoiseTexture2D" id="NoiseTexture2D_sd3e6"]
+
+[node name="Main" type="Node"]
+
+[node name="GDExample" type="GDExample" parent="."]
+position = Vector2(9.33117, 3.29266)
+texture = SubResource("NoiseTexture2D_sd3e6")
