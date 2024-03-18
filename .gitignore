@@ -7,4 +7,5 @@
 .vimsession
 compile_commands.json
 .godot/
+[Tt]emp/
 *.TMP
