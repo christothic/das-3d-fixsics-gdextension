@@ -1,6 +1,6 @@
 #include "das_fixed_node_3d.h"
 
-// #include <godot_cpp/classes/engine.hpp>
+#include <godot_cpp/classes/engine.hpp>
 using namespace godot;
 
 void DASFixedNode3D::_bind_methods() {
@@ -8,7 +8,7 @@ void DASFixedNode3D::_bind_methods() {
     //                      &DASFixedNode3D::get_fixed_transform);
     // ClassDB::bind_method(D_METHOD("set_fixed_transform", "fixed_transform"),
     //                      &DASFixedNode3D::set_fixed_transform);
-    //
+
     // ClassDB::bind_method(D_METHOD("get_fixed_position"),
     //                      &DASFixedNode3D::get_fixed_position);
     // ClassDB::bind_method(D_METHOD("set_fixed_position", "fixed_position"),

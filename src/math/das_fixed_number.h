@@ -1,6 +1,6 @@
 
-#ifndef DAS_FIXED_NUMBER_INTERNAL_H
-#define DAS_FIXED_NUMBER_INTERNAL_H
+#ifndef DAS_FIXED_NUMBER_H
+#define DAS_FIXED_NUMBER_H
 
 #include <godot_cpp/core/error_macros.hpp>
 
