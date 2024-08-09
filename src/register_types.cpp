@@ -1,7 +1,7 @@
 #include "register_types.h"
 
 #include "math/das_fixed_vector3.h"
-#include "scene/3d/das_fixed_node_3d.h"
+// #include "scene/3d/das_fixed_node_3d.h"
 
 #include <gdextension_interface.h>
 #include <godot_cpp/core/defs.hpp>
@@ -14,7 +14,7 @@ void initialize_example_module(ModuleInitializationLevel p_level) {
         return;
     }
 
-    ClassDB::register_class<DASFixedNode3D>();
+    // ClassDB::register_class<DASFixedNode3D>();
     ClassDB::register_class<DASFixedVector3>();
 }
 

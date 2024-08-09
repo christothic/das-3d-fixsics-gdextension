@@ -9,3 +9,6 @@ compile_commands.json
 .godot/
 [Tt]emp/
 *.TMP
+*.os
+*.so
+extension_api.json
